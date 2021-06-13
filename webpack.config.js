@@ -28,8 +28,8 @@ const config = {
     devServer: {
         open: true,
         port: 3000,
-        publicPath: '{{DECKDECKGO_BASE_HREF}}',
-        openPage: 'http://localhost:3000{{DECKDECKGO_BASE_HREF}}'
+        publicPath: '/rtokiwa/big-mountain-resort-presentation/',
+        openPage: 'http://localhost:3000/rtokiwa/big-mountain-resort-presentation/'
     }
 };
 
